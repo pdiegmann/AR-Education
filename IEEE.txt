@@ -1,0 +1,26 @@
+(
+	(
+		"Document Title": "Augmented Reality" OR 
+		"Abstract": "Augmented Reality" OR 
+		"Author Keywords": "Augmented Reality"
+	) AND 
+	(
+		"Document Title": "Learn*" OR 
+		"Document Title": "Teach*" OR 
+		"Document Title": "University" OR 
+		"Document Title": "College" OR
+		"Document Title": "Education" OR 
+
+		"Abstract": "Learn*" OR 
+		"Abstract": "University" OR 
+		"Abstract": "College" OR 
+		"Abstract": "Teach*" OR 
+		"Abstract": "Education" OR
+
+		"Author Keywords": "Learning" OR 
+		"Author Keywords": "University" OR 
+		"Author Keywords": "Teaching" OR 
+		"Author Keywords": "College"  OR 
+		"Author Keywords": "Education" 
+	) 
+)
