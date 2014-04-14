@@ -1,0 +1,34 @@
+( 
+	Title: "Augmented Reality" OR 
+	Abstract: "Augmented Reality" OR 
+	Keywords: "Augmented Reality" 
+) 
+AND  
+( 
+	( 
+		Title: "University*" OR 
+		Title: "College*" OR 
+		Title: "School*" OR 
+		Title: "Teach*" OR 
+		Title: "Learn*" OR 
+		Title: "Educat*" 
+	) 
+	OR  
+	( 
+		Abstract: "University*" OR 
+		Abstract: "College*" OR 
+		Abstract: "School*" OR 
+		Abstract: "Teach*" OR 
+		Abstract: "Learn*" OR 
+		Abstract: "Educat*" 
+	) 
+	OR 
+	( 
+		Keywords: "University*" OR 
+		Keywords: "College*" OR 
+		Keywords: "School*" OR 
+		Keywords: "Teach*" OR 
+		Keywords: "Learn*" OR 
+		Keywords: "Educat*" 
+	) 
+) 
