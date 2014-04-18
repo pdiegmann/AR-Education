@@ -1,0 +1,14 @@
+( 
+	title: ( 
+		"Augmented Reality" AND "Benefit*" AND 
+		( "University*" OR "College*" OR "School*" OR "Teach*" OR "Learn*" OR "Educat*") 
+	) OR 
+	abstract: ( 
+		"Augmented Reality" AND "Benefit*" AND 
+		( "University*" OR "College*" OR "School*" OR "Teach*" OR "Learn*" OR "Educat*") 
+	) OR 
+	subject: ( 
+		"Augmented Reality" AND "Benefit*" AND 
+		( "University*" OR "College*" OR "School*" OR "Teach*" OR "Learn*" OR "Educat*") 
+	) 
+) 
