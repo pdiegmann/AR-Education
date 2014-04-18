@@ -1,7 +1,7 @@
 ( 
-	Title: "Augmented Reality" OR 
-	Abstract: "Augmented Reality" OR 
-	Keywords: "Augmented Reality" 
+	Title: "Augmented Reality" AND "Benefit*" OR 
+	Abstract: "Augmented Reality" AND "Benefit*" OR 
+	Keywords: "Augmented Reality" AND "Benefit*"
 ) 
 AND  
 ( 
