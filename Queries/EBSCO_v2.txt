@@ -1,12 +1,12 @@
 TI ( 	
-	"Augmented Reality" AND 
+	"Augmented Reality" AND "Benefit*" AND
 	( "University*" OR "College*" OR "School*" OR "Teach*" OR "Learn*" OR "Educat*")
 ) OR
 AB ( 	
-	"Augmented Reality" AND 
+	"Augmented Reality" AND "Benefit*" AND
 	( "University*" OR "College*" OR "School*" OR "Teach*" OR "Learn*" OR "Educat*")
 ) OR
 KW ( 	
-	"Augmented Reality" AND 
+	"Augmented Reality" AND "Benefit*" AND
 	( "University*" OR "College*" OR "School*" OR "Teach*" OR "Learn*" OR "Educat*")
 )
