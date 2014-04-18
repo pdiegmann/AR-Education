@@ -1,8 +1,8 @@
 (
 	(
-		"Document Title": "Augmented Reality" OR 
-		"Abstract": "Augmented Reality" OR 
-		"Author Keywords": "Augmented Reality"
+		"Document Title": "Augmented Reality" AND ("Benefit" OR "Benefits") OR
+		"Abstract": "Augmented Reality" AND ("Benefit" OR "Benefits") OR 
+		"Author Keywords": "Augmented Reality" AND ("Benefit" OR "Benefits")
 	) AND 
 	(
 		"Document Title": "Learn*" OR 

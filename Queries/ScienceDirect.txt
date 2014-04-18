@@ -1,6 +1,6 @@
 TITLE-ABSTR-KEY
 (
-  "Augmented Reality" AND 
+  "Augmented Reality" AND "Benefit*"
   
   (
     "Educat*" OR "Learn*" OR "Teach*" OR "University" OR "College" OR "School"
