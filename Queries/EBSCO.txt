@@ -1,12 +1,25 @@
-TI ( 	
-	"Augmented Reality" AND "Benefit*" AND
-	( "University*" OR "College*" OR "School*" OR "Teach*" OR "Learn*" OR "Educat*")
-) OR
-AB ( 	
-	"Augmented Reality" AND "Benefit*" AND
-	( "University*" OR "College*" OR "School*" OR "Teach*" OR "Learn*" OR "Educat*")
-) OR
-KW ( 	
-	"Augmented Reality" AND "Benefit*" AND
-	( "University*" OR "College*" OR "School*" OR "Teach*" OR "Learn*" OR "Educat*")
+(
+	(
+		TI (  
+		 "Augmented Reality"
+		) OR
+		AB (
+		 "Augmented Reality"
+		) OR
+		KW (
+		 "Augmented Reality"
+		)
+	)
+	AND
+	(
+		TI (  
+		 "College*" OR "School*" OR "Teach*" OR "Learn*" OR "Educat*"
+		) OR
+		AB (  
+		 "College*" OR "School*" OR "Teach*" OR "Learn*" OR "Educat*"
+		) OR
+		KW (
+		 "College*" OR "School*" OR "Teach*" OR "Learn*" OR "Educat*"
+		)
+	)
 )
