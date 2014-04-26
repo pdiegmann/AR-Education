@@ -1,8 +1,0 @@
-TITLE-ABSTR-KEY
-(
-  "Augmented Reality" AND
-  
-  (
-    "Educat*" OR "Learn*" OR "Teach*" OR "College" OR "School"
-  )
-)
