@@ -148,11 +148,14 @@
 \usepackage{float}
 \restylefloat{table}
 \usepackage{enumitem}
+\usepackage{changepage}
+\usepackage{pdflscape}
 \setenumerate{noitemsep,topsep=0pt,parsep=0pt,partopsep=0pt}
 
 % Grafiken anzeigen
 \usepackage[pdftex]{graphicx}
 \graphicspath{{figures}}
+\usepackage{rotating}
 \counterwithin{figure}{section}
 \usepackage[absolute,overlay]{textpos}
 
@@ -219,17 +222,11 @@
 % Inhalt
 % ---------
 \include{chapters/1-introduction}
-\newpage
 \include{chapters/2-research-approach}
-\newpage
 \include{chapters/3-findings}
-\newpage
 \include{chapters/3-findings-part-2}
-\newpage
 \include{chapters/4-discussion}
-\newpage
 \include{chapters/5-conclusion}
-\newpage
 
 \renewcommand{\arraystretch}{1.0}
 
