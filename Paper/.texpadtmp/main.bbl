@@ -76,6 +76,12 @@
       \field{labeltitle}{Creating Interactive Physics Education Books with Augmented Reality}
       \field{bookpagination}{page}
       \field{booktitle}{Proceedings of the 24th Australian Computer-Human Interaction Conference}
+      \field{eventday}{26}
+      \field{eventendday}{30}
+      \field{eventendmonth}{11}
+      \field{eventendyear}{2012}
+      \field{eventmonth}{11}
+      \field{eventyear}{2012}
       \field{pagetotal}{8}
       \field{title}{Creating Interactive Physics Education Books with Augmented Reality}
       \field{venue}{Melbourne, Victoria, Australia}
@@ -85,7 +91,6 @@
       \verb Andreas, D\&\#252; nser; Lawrence, Walker; Heather, Horner; Daniel, Bentall - Creating interactive physics education books with augmented reality:C\:\\Users\\Sven\\Documents\\GitHub\\AR-Education\\Literature\\Review\\Andreas, D\&\#252; nser; Lawrence, Walker; Heather, Horner; Daniel, Bentall - Creating interactive physics education books with augmented reality.pdf:pdf
       \endverb
       \keyw{augmented book;augmented reality;authoring;education;electromagnetism;interaction;learning}
-      \warn{\item Datamodel: Entry 'Dunser.2012' (literature.bib): Invalid format 'November 26-30' of date field 'eventdate' - ignoring}
     \endentry
   \endsortlist
 \endrefsection
