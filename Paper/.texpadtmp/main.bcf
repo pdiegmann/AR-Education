@@ -1959,8 +1959,8 @@
     <bcf:datasource type="file" datatype="bibtex">literature.bib</bcf:datasource>
   </bcf:bibdata>
   <bcf:section number="0">
-    <bcf:citekey order="1">Test.1900</bcf:citekey>
-    <bcf:citekey order="2">Test.1901</bcf:citekey>
+    <bcf:citekey order="1">Chang.2014</bcf:citekey>
+    <bcf:citekey order="2">Andujar.2011</bcf:citekey>
   </bcf:section>
   <bcf:sortlist section="0" type="entry" label="nty">
   <bcf:sorting>

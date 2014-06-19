@@ -19,54 +19,75 @@
 
 \refsection{0}
   \sortlist{entry}{nty}
-    \entry{Test.1900}{article}{}
-      \name{labelname}{2}{}{%
-        {{uniquename=1,hash=b085d1bf4cff8b1045750706b11f8662}{Test}{T\bibinitperiod}{Test}{T\bibinitperiod}{}{}{}{}}%
-        {{uniquename=0,hash=0cbc6611f5540bd0809a388dc95a615b}{Test}{T\bibinitperiod}{}{}{}{}{}{}}%
+    \entry{Andujar.2011}{article}{}
+      \name{labelname}{3}{}{%
+        {{uniquename=0,hash=ca373f1ff2dfe544864c203f32c588ab}{Andujar}{A\bibinitperiod}{J.}{J\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=9952d0c307a47d56a047d50c6695d05c}{Mejias}{M\bibinitperiod}{A.}{A\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=75a63cc5bc55a27bb60f40c401ae29f6}{Marquez}{M\bibinitperiod}{M.}{M\bibinitperiod}{}{}{}{}}%
       }
-      \name{author}{2}{}{%
-        {{uniquename=1,hash=b085d1bf4cff8b1045750706b11f8662}{Test}{T\bibinitperiod}{Test}{T\bibinitperiod}{}{}{}{}}%
-        {{uniquename=0,hash=0cbc6611f5540bd0809a388dc95a615b}{Test}{T\bibinitperiod}{}{}{}{}{}{}}%
+      \name{author}{3}{}{%
+        {{uniquename=0,hash=ca373f1ff2dfe544864c203f32c588ab}{Andujar}{A\bibinitperiod}{J.}{J\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=9952d0c307a47d56a047d50c6695d05c}{Mejias}{M\bibinitperiod}{A.}{A\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=75a63cc5bc55a27bb60f40c401ae29f6}{Marquez}{M\bibinitperiod}{M.}{M\bibinitperiod}{}{}{}{}}%
       }
-      \strng{namehash}{e2f56f957d47b916aca667876a28e420}
-      \strng{fullhash}{e2f56f957d47b916aca667876a28e420}
-      \field{sortinit}{T}
-      \field{labelyear}{1900}
-      \field{labeltitle}{Tehhhst}
-      \field{abstract}{Dies ist ein Test}
-      \field{issn}{1234567890}
-      \field{journaltitle}{Test Journal of Test}
-      \field{number}{1}
-      \field{title}{Tehhhst}
-      \field{volume}{100}
-      \field{year}{1900}
-      \field{pages}{\bibrangedash 120}
+      \strng{namehash}{d008384175e7bca1d1fe9fa22b55b21c}
+      \strng{fullhash}{d008384175e7bca1d1fe9fa22b55b21c}
+      \field{sortinit}{A}
+      \field{labelyear}{2011}
+      \field{labeltitle}{Augmented Reality for the Improvement of Remote Laboratories: An Augmented Remote Laboratory}
+      \field{issue}{3}
+      \field{journaltitle}{IEEE Transactions on Education}
+      \field{pagetotal}{9}
+      \field{pagination}{page}
+      \field{title}{Augmented Reality for the Improvement of Remote Laboratories: An Augmented Remote Laboratory}
+      \field{volume}{54}
+      \field{year}{2011}
+      \field{pages}{492\bibrangedash 500}
+      \verb{doi}
+      \verb 10.1109/TE.2010.2085047
+      \endverb
+      \verb{file}
+      \verb Jose Manuel Andújar; Andrés Mejías, and Marco Antonio Márquez - Augmented Reality for the Improvement:C\:\\Users\\Sven\\Documents\\GitHub\\AR-Education\\Literature\\Review\\Jose Manuel Andújar; Andrés Mejías, and Marco Antonio Márquez - Augmented Reality for the Improvement.pdf:pdf
+      \endverb
     \endentry
-    \entry{Test.1901}{article}{}
-      \name{labelname}{2}{}{%
-        {{uniquename=1,hash=b085d1bf4cff8b1045750706b11f8662}{Test}{T\bibinitperiod}{Test}{T\bibinitperiod}{}{}{}{}}%
-        {{uniquename=0,hash=0cbc6611f5540bd0809a388dc95a615b}{Test}{T\bibinitperiod}{}{}{}{}{}{}}%
+    \entry{Chang.2014}{article}{}
+      \name{labelname}{6}{}{%
+        {{uniquename=0,hash=fe7d18b5a633493e3dedd717d6d45077}{Chang}{C\bibinitperiod}{K.-E.}{K\bibinithyphendelim E\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=c6878d140b04cc5745d1b7d39f2098f3}{Chang}{C\bibinitperiod}{C.-T.}{C\bibinithyphendelim T\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=d18eda36915944475db99dbc902722e1}{Hou}{H\bibinitperiod}{H.-T.}{H\bibinithyphendelim T\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=53d1c91ed4420430f781c59b931fd166}{Sung}{S\bibinitperiod}{Y.-T.}{Y\bibinithyphendelim T\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=ad1116e672a647e38bb0031375f9cd34}{Chao}{C\bibinitperiod}{H.-L.}{H\bibinithyphendelim L\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=85303cfa5acc403511721dc4da215ac3}{Lee}{L\bibinitperiod}{C.-M.}{C\bibinithyphendelim M\bibinitperiod}{}{}{}{}}%
       }
-      \name{author}{2}{}{%
-        {{uniquename=1,hash=b085d1bf4cff8b1045750706b11f8662}{Test}{T\bibinitperiod}{Test}{T\bibinitperiod}{}{}{}{}}%
-        {{uniquename=0,hash=0cbc6611f5540bd0809a388dc95a615b}{Test}{T\bibinitperiod}{}{}{}{}{}{}}%
+      \name{author}{6}{}{%
+        {{uniquename=0,hash=fe7d18b5a633493e3dedd717d6d45077}{Chang}{C\bibinitperiod}{K.-E.}{K\bibinithyphendelim E\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=c6878d140b04cc5745d1b7d39f2098f3}{Chang}{C\bibinitperiod}{C.-T.}{C\bibinithyphendelim T\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=d18eda36915944475db99dbc902722e1}{Hou}{H\bibinitperiod}{H.-T.}{H\bibinithyphendelim T\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=53d1c91ed4420430f781c59b931fd166}{Sung}{S\bibinitperiod}{Y.-T.}{Y\bibinithyphendelim T\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=ad1116e672a647e38bb0031375f9cd34}{Chao}{C\bibinitperiod}{H.-L.}{H\bibinithyphendelim L\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=85303cfa5acc403511721dc4da215ac3}{Lee}{L\bibinitperiod}{C.-M.}{C\bibinithyphendelim M\bibinitperiod}{}{}{}{}}%
       }
-      \strng{namehash}{e2f56f957d47b916aca667876a28e420}
-      \strng{fullhash}{e2f56f957d47b916aca667876a28e420}
-      \field{sortinit}{T}
-      \field{labelyear}{1901}
-      \field{labeltitle}{Tehhhst 2}
-      \field{abstract}{Dies ist ein zweiter Test}
-      \field{issn}{1234567890}
-      \field{journaltitle}{Test Journal of Test the Second}
-      \field{number}{1}
-      \field{title}{Tehhhst 2}
-      \field{volume}{100}
-      \field{year}{1901}
-      \field{pages}{\bibrangedash 123}
+      \strng{namehash}{3f76aa388890179a11686b87bc5eb3e9}
+      \strng{fullhash}{5f6f82744776e1ccd312504a46ca51a4}
+      \field{sortinit}{C}
+      \field{labelyear}{2014}
+      \field{labeltitle}{Development and Behavioral Pattern Analysis of a Mobile Guide System with Augmented Reality for Painting Appreciation Instruction in an Art Museum}
+      \field{issn}{03601315}
+      \field{journaltitle}{Computers {\&} Education}
+      \field{pagetotal}{13}
+      \field{pagination}{page}
+      \field{title}{Development and Behavioral Pattern Analysis of a Mobile Guide System with Augmented Reality for Painting Appreciation Instruction in an Art Museum}
+      \field{volume}{71}
+      \field{year}{2014}
+      \field{pages}{185\bibrangedash 197}
+      \verb{doi}
+      \verb 10.1016/j.compedu.2013.09.022
+      \endverb
+      \verb{file}
+      \verb Chang, Kuo-En et al - Development and behavioral pattern analysis of a mobile guide system with augmented reality for painting appreciation instruction in an art museum:C\:\\Users\\Sven\\Documents\\GitHub\\AR-Education\\Literature\\Review\\Chang, Kuo-En et al - Development and behavioral pattern analysis of a mobile guide system with augmented reality for painting appreciation instruction in an art museum.pdf:pdf
+      \endverb
     \endentry
   \endsortlist
-  \missing{Njie.2013}
 \endrefsection
 \endinput
 

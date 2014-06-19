@@ -1,16 +1,14 @@
 [0] Config.pm:425> INFO - This is Biber 1.7
 [0] Config.pm:428> INFO - Logfile is '/Users/phil/Documents/AR-Education/Paper/.texpadtmp/main.blg'
-[94] biber-darwin:252> INFO - === Thu Jun 19, 2014, 11:43:12
-[95] Biber.pm:333> INFO - Reading '/Users/phil/Documents/AR-Education/Paper/.texpadtmp/main.bcf'
-[173] Biber.pm:630> INFO - Found 3 citekeys in bib section 0
-[199] Biber.pm:2997> INFO - Processing section 0
-[220] Biber.pm:3134> INFO - Looking for bibtex format file 'literature.bib' for section 0
-[221] bibtex.pm:911> INFO - Decoding LaTeX character macros into UTF-8
-[222] bibtex.pm:786> INFO - Found BibTeX data source 'literature.bib'
-[227] Utils.pm:169> WARN - I didn't find a database entry for 'Njie.2013' (section 0)
-[284] Biber.pm:2883> INFO - Overriding locale 'en_US.UTF-8' default tailoring 'variable = shifted' with 'variable = non-ignorable'
-[284] Biber.pm:2889> INFO - Sorting 'entry' list 'nty' keys
-[284] Biber.pm:2893> INFO - No sort tailoring available for locale 'en_US.UTF-8'
-[301] bbl.pm:479> INFO - Writing '/Users/phil/Documents/AR-Education/Paper/.texpadtmp/main.bbl' with encoding 'UTF-8'
-[302] bbl.pm:552> INFO - Output to /Users/phil/Documents/AR-Education/Paper/.texpadtmp/main.bbl
-[303] Biber.pm:105> INFO - WARNINGS: 1
+[74] biber-darwin:252> INFO - === Thu Jun 19, 2014, 15:56:18
+[75] Biber.pm:333> INFO - Reading '/Users/phil/Documents/AR-Education/Paper/.texpadtmp/main.bcf'
+[146] Biber.pm:630> INFO - Found 2 citekeys in bib section 0
+[167] Biber.pm:2997> INFO - Processing section 0
+[181] Biber.pm:3134> INFO - Looking for bibtex format file 'literature.bib' for section 0
+[189] bibtex.pm:911> INFO - Decoding LaTeX character macros into UTF-8
+[199] bibtex.pm:786> INFO - Found BibTeX data source 'literature.bib'
+[255] Biber.pm:2883> INFO - Overriding locale 'en_US.UTF-8' default tailoring 'variable = shifted' with 'variable = non-ignorable'
+[255] Biber.pm:2889> INFO - Sorting 'entry' list 'nty' keys
+[255] Biber.pm:2893> INFO - No sort tailoring available for locale 'en_US.UTF-8'
+[272] bbl.pm:479> INFO - Writing '/Users/phil/Documents/AR-Education/Paper/.texpadtmp/main.bbl' with encoding 'UTF-8'
+[273] bbl.pm:552> INFO - Output to /Users/phil/Documents/AR-Education/Paper/.texpadtmp/main.bbl
