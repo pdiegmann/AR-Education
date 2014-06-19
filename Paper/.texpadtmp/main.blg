@@ -1,14 +1,16 @@
 [0] Config.pm:425> INFO - This is Biber 1.7
 [0] Config.pm:428> INFO - Logfile is '/Users/phil/Documents/AR-Education/Paper/.texpadtmp/main.blg'
-[74] biber-darwin:252> INFO - === Thu Jun 19, 2014, 15:56:18
-[75] Biber.pm:333> INFO - Reading '/Users/phil/Documents/AR-Education/Paper/.texpadtmp/main.bcf'
-[146] Biber.pm:630> INFO - Found 2 citekeys in bib section 0
-[167] Biber.pm:2997> INFO - Processing section 0
-[181] Biber.pm:3134> INFO - Looking for bibtex format file 'literature.bib' for section 0
-[189] bibtex.pm:911> INFO - Decoding LaTeX character macros into UTF-8
-[199] bibtex.pm:786> INFO - Found BibTeX data source 'literature.bib'
-[255] Biber.pm:2883> INFO - Overriding locale 'en_US.UTF-8' default tailoring 'variable = shifted' with 'variable = non-ignorable'
-[255] Biber.pm:2889> INFO - Sorting 'entry' list 'nty' keys
-[255] Biber.pm:2893> INFO - No sort tailoring available for locale 'en_US.UTF-8'
-[272] bbl.pm:479> INFO - Writing '/Users/phil/Documents/AR-Education/Paper/.texpadtmp/main.bbl' with encoding 'UTF-8'
-[273] bbl.pm:552> INFO - Output to /Users/phil/Documents/AR-Education/Paper/.texpadtmp/main.bbl
+[90] biber-darwin:252> INFO - === Thu Jun 19, 2014, 16:30:18
+[91] Biber.pm:333> INFO - Reading '/Users/phil/Documents/AR-Education/Paper/.texpadtmp/main.bcf'
+[161] Biber.pm:630> INFO - Found 2 citekeys in bib section 0
+[184] Biber.pm:2997> INFO - Processing section 0
+[203] Biber.pm:3134> INFO - Looking for bibtex format file 'literature.bib' for section 0
+[210] bibtex.pm:911> INFO - Decoding LaTeX character macros into UTF-8
+[220] bibtex.pm:786> INFO - Found BibTeX data source 'literature.bib'
+[235] Utils.pm:169> WARN - Datamodel: Entry 'Dunser.2012' (literature.bib): Invalid format 'November 26-30' of date field 'eventdate' - ignoring
+[301] Biber.pm:2883> INFO - Overriding locale 'en_US.UTF-8' default tailoring 'variable = shifted' with 'variable = non-ignorable'
+[302] Biber.pm:2889> INFO - Sorting 'entry' list 'nty' keys
+[302] Biber.pm:2893> INFO - No sort tailoring available for locale 'en_US.UTF-8'
+[319] bbl.pm:479> INFO - Writing '/Users/phil/Documents/AR-Education/Paper/.texpadtmp/main.bbl' with encoding 'UTF-8'
+[320] bbl.pm:552> INFO - Output to /Users/phil/Documents/AR-Education/Paper/.texpadtmp/main.bbl
+[320] Biber.pm:105> INFO - WARNINGS: 1

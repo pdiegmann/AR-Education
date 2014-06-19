@@ -19,37 +19,6 @@
 
 \refsection{0}
   \sortlist{entry}{nty}
-    \entry{Andujar.2011}{article}{}
-      \name{labelname}{3}{}{%
-        {{uniquename=0,hash=ca373f1ff2dfe544864c203f32c588ab}{Andujar}{A\bibinitperiod}{J.}{J\bibinitperiod}{}{}{}{}}%
-        {{uniquename=0,hash=9952d0c307a47d56a047d50c6695d05c}{Mejias}{M\bibinitperiod}{A.}{A\bibinitperiod}{}{}{}{}}%
-        {{uniquename=0,hash=75a63cc5bc55a27bb60f40c401ae29f6}{Marquez}{M\bibinitperiod}{M.}{M\bibinitperiod}{}{}{}{}}%
-      }
-      \name{author}{3}{}{%
-        {{uniquename=0,hash=ca373f1ff2dfe544864c203f32c588ab}{Andujar}{A\bibinitperiod}{J.}{J\bibinitperiod}{}{}{}{}}%
-        {{uniquename=0,hash=9952d0c307a47d56a047d50c6695d05c}{Mejias}{M\bibinitperiod}{A.}{A\bibinitperiod}{}{}{}{}}%
-        {{uniquename=0,hash=75a63cc5bc55a27bb60f40c401ae29f6}{Marquez}{M\bibinitperiod}{M.}{M\bibinitperiod}{}{}{}{}}%
-      }
-      \strng{namehash}{d008384175e7bca1d1fe9fa22b55b21c}
-      \strng{fullhash}{d008384175e7bca1d1fe9fa22b55b21c}
-      \field{sortinit}{A}
-      \field{labelyear}{2011}
-      \field{labeltitle}{Augmented Reality for the Improvement of Remote Laboratories: An Augmented Remote Laboratory}
-      \field{issue}{3}
-      \field{journaltitle}{IEEE Transactions on Education}
-      \field{pagetotal}{9}
-      \field{pagination}{page}
-      \field{title}{Augmented Reality for the Improvement of Remote Laboratories: An Augmented Remote Laboratory}
-      \field{volume}{54}
-      \field{year}{2011}
-      \field{pages}{492\bibrangedash 500}
-      \verb{doi}
-      \verb 10.1109/TE.2010.2085047
-      \endverb
-      \verb{file}
-      \verb Jose Manuel Andújar; Andrés Mejías, and Marco Antonio Márquez - Augmented Reality for the Improvement:C\:\\Users\\Sven\\Documents\\GitHub\\AR-Education\\Literature\\Review\\Jose Manuel Andújar; Andrés Mejías, and Marco Antonio Márquez - Augmented Reality for the Improvement.pdf:pdf
-      \endverb
-    \endentry
     \entry{Chang.2014}{article}{}
       \name{labelname}{6}{}{%
         {{uniquename=0,hash=fe7d18b5a633493e3dedd717d6d45077}{Chang}{C\bibinitperiod}{K.-E.}{K\bibinithyphendelim E\bibinitperiod}{}{}{}{}}%
@@ -86,6 +55,37 @@
       \verb{file}
       \verb Chang, Kuo-En et al - Development and behavioral pattern analysis of a mobile guide system with augmented reality for painting appreciation instruction in an art museum:C\:\\Users\\Sven\\Documents\\GitHub\\AR-Education\\Literature\\Review\\Chang, Kuo-En et al - Development and behavioral pattern analysis of a mobile guide system with augmented reality for painting appreciation instruction in an art museum.pdf:pdf
       \endverb
+    \endentry
+    \entry{Dunser.2012}{inproceedings}{}
+      \name{labelname}{4}{}{%
+        {{uniquename=0,hash=b58a272487d0d99af699210849aa5a7a}{Dünser}{D\bibinitperiod}{A.}{A\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=123bead6db2814296209e965727315d5}{Walker}{W\bibinitperiod}{L.}{L\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=1c0614ee909eaff405af221e79f229e4}{Horner}{H\bibinitperiod}{H.}{H\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=3022c7d67a35acbb3a295a40b66a7b41}{Bentall}{B\bibinitperiod}{D.}{D\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{4}{}{%
+        {{uniquename=0,hash=b58a272487d0d99af699210849aa5a7a}{Dünser}{D\bibinitperiod}{A.}{A\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=123bead6db2814296209e965727315d5}{Walker}{W\bibinitperiod}{L.}{L\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=1c0614ee909eaff405af221e79f229e4}{Horner}{H\bibinitperiod}{H.}{H\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=3022c7d67a35acbb3a295a40b66a7b41}{Bentall}{B\bibinitperiod}{D.}{D\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{6aabc5aa6cde3f350947842fc862f85a}
+      \strng{fullhash}{1ce8a6b22dd2e6c55506bf2282e1beae}
+      \field{sortinit}{D}
+      \field{labelyear}{2012}
+      \field{labeltitle}{Creating Interactive Physics Education Books with Augmented Reality}
+      \field{bookpagination}{page}
+      \field{booktitle}{Proceedings of the 24th Australian Computer-Human Interaction Conference}
+      \field{pagetotal}{8}
+      \field{title}{Creating Interactive Physics Education Books with Augmented Reality}
+      \field{venue}{Melbourne, Victoria, Australia}
+      \field{year}{2012}
+      \field{pages}{107\bibrangedash 114}
+      \verb{file}
+      \verb Andreas, D\&\#252; nser; Lawrence, Walker; Heather, Horner; Daniel, Bentall - Creating interactive physics education books with augmented reality:C\:\\Users\\Sven\\Documents\\GitHub\\AR-Education\\Literature\\Review\\Andreas, D\&\#252; nser; Lawrence, Walker; Heather, Horner; Daniel, Bentall - Creating interactive physics education books with augmented reality.pdf:pdf
+      \endverb
+      \keyw{augmented book;augmented reality;authoring;education;electromagnetism;interaction;learning}
+      \warn{\item Datamodel: Entry 'Dunser.2012' (literature.bib): Invalid format 'November 26-30' of date field 'eventdate' - ignoring}
     \endentry
   \endsortlist
 \endrefsection
