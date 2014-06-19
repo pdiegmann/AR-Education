@@ -82,4 +82,6 @@
 \contentsline {section}{\numberline {4}Discussion}{6}{section.4}
 \defcounter {refsection}{0}\relax 
 \contentsline {section}{\numberline {5}Conclusion}{7}{section.5}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{Bibliography}{8}{section.5}
 \contentsfinish 

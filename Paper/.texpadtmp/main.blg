@@ -1,9 +1,14 @@
 [0] Config.pm:425> INFO - This is Biber 1.7
 [0] Config.pm:428> INFO - Logfile is '/Users/phil/Documents/AR-Education/Paper/.texpadtmp/main.blg'
-[94] biber-darwin:252> INFO - === Thu Jun 19, 2014, 09:22:07
-[94] Biber.pm:333> INFO - Reading '/Users/phil/Documents/AR-Education/Paper/.texpadtmp/main.bcf'
-[171] Biber.pm:630> INFO - Found 0 citekeys in bib section 0
-[171] Utils.pm:169> WARN - The file '/Users/phil/Documents/AR-Education/Paper/.texpadtmp/main.bcf' does not contain any citations!
-[193] bbl.pm:479> INFO - Writing '/Users/phil/Documents/AR-Education/Paper/.texpadtmp/main.bbl' with encoding 'UTF-8'
-[193] bbl.pm:552> INFO - Output to /Users/phil/Documents/AR-Education/Paper/.texpadtmp/main.bbl
-[193] Biber.pm:105> INFO - WARNINGS: 1
+[75] biber-darwin:252> INFO - === Thu Jun 19, 2014, 09:35:12
+[75] Biber.pm:333> INFO - Reading '/Users/phil/Documents/AR-Education/Paper/.texpadtmp/main.bcf'
+[146] Biber.pm:630> INFO - Found 2 citekeys in bib section 0
+[163] Biber.pm:2997> INFO - Processing section 0
+[177] Biber.pm:3134> INFO - Looking for bibtex format file 'literature.bib' for section 0
+[179] bibtex.pm:911> INFO - Decoding LaTeX character macros into UTF-8
+[180] bibtex.pm:786> INFO - Found BibTeX data source 'literature.bib'
+[222] Biber.pm:2883> INFO - Overriding locale 'en_US.UTF-8' default tailoring 'variable = shifted' with 'variable = non-ignorable'
+[222] Biber.pm:2889> INFO - Sorting 'entry' list 'nty' keys
+[222] Biber.pm:2893> INFO - No sort tailoring available for locale 'en_US.UTF-8'
+[240] bbl.pm:479> INFO - Writing '/Users/phil/Documents/AR-Education/Paper/.texpadtmp/main.bbl' with encoding 'UTF-8'
+[241] bbl.pm:552> INFO - Output to /Users/phil/Documents/AR-Education/Paper/.texpadtmp/main.bbl

@@ -16,5 +16,56 @@
   {}
 \endgroup
 
+
+\refsection{0}
+  \sortlist{entry}{nty}
+    \entry{Test.1900}{article}{}
+      \name{labelname}{2}{}{%
+        {{uniquename=1,hash=b085d1bf4cff8b1045750706b11f8662}{Test}{T\bibinitperiod}{Test}{T\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=0cbc6611f5540bd0809a388dc95a615b}{Test}{T\bibinitperiod}{}{}{}{}{}{}}%
+      }
+      \name{author}{2}{}{%
+        {{uniquename=1,hash=b085d1bf4cff8b1045750706b11f8662}{Test}{T\bibinitperiod}{Test}{T\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=0cbc6611f5540bd0809a388dc95a615b}{Test}{T\bibinitperiod}{}{}{}{}{}{}}%
+      }
+      \strng{namehash}{e2f56f957d47b916aca667876a28e420}
+      \strng{fullhash}{e2f56f957d47b916aca667876a28e420}
+      \field{sortinit}{T}
+      \field{labelyear}{1900}
+      \field{labeltitle}{Tehhhst}
+      \field{abstract}{Dies ist ein Test}
+      \field{issn}{1234567890}
+      \field{journaltitle}{Test Journal of Test}
+      \field{number}{1}
+      \field{title}{Tehhhst}
+      \field{volume}{100}
+      \field{year}{1900}
+      \field{pages}{\bibrangedash 120}
+    \endentry
+    \entry{Test.1901}{article}{}
+      \name{labelname}{2}{}{%
+        {{uniquename=1,hash=b085d1bf4cff8b1045750706b11f8662}{Test}{T\bibinitperiod}{Test}{T\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=0cbc6611f5540bd0809a388dc95a615b}{Test}{T\bibinitperiod}{}{}{}{}{}{}}%
+      }
+      \name{author}{2}{}{%
+        {{uniquename=1,hash=b085d1bf4cff8b1045750706b11f8662}{Test}{T\bibinitperiod}{Test}{T\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=0cbc6611f5540bd0809a388dc95a615b}{Test}{T\bibinitperiod}{}{}{}{}{}{}}%
+      }
+      \strng{namehash}{e2f56f957d47b916aca667876a28e420}
+      \strng{fullhash}{e2f56f957d47b916aca667876a28e420}
+      \field{sortinit}{T}
+      \field{labelyear}{1901}
+      \field{labeltitle}{Tehhhst 2}
+      \field{abstract}{Dies ist ein zweiter Test}
+      \field{issn}{1234567890}
+      \field{journaltitle}{Test Journal of Test the Second}
+      \field{number}{1}
+      \field{title}{Tehhhst 2}
+      \field{volume}{100}
+      \field{year}{1901}
+      \field{pages}{\bibrangedash 123}
+    \endentry
+  \endsortlist
+\endrefsection
 \endinput
 
