@@ -1,9 +1,9 @@
 [0] Config.pm:425> INFO - This is Biber 1.7
 [0] Config.pm:428> INFO - Logfile is '/Users/phil/Documents/AR-Education/Paper/.texpadtmp/main.blg'
-[98] biber-darwin:252> INFO - === Thu Jun 19, 2014, 08:56:40
-[99] Biber.pm:333> INFO - Reading '/Users/phil/Documents/AR-Education/Paper/.texpadtmp/main.bcf'
-[173] Biber.pm:630> INFO - Found 0 citekeys in bib section 0
-[173] Utils.pm:169> WARN - The file '/Users/phil/Documents/AR-Education/Paper/.texpadtmp/main.bcf' does not contain any citations!
-[204] bbl.pm:479> INFO - Writing '/Users/phil/Documents/AR-Education/Paper/.texpadtmp/main.bbl' with encoding 'UTF-8'
-[205] bbl.pm:552> INFO - Output to /Users/phil/Documents/AR-Education/Paper/.texpadtmp/main.bbl
-[205] Biber.pm:105> INFO - WARNINGS: 1
+[94] biber-darwin:252> INFO - === Thu Jun 19, 2014, 09:22:07
+[94] Biber.pm:333> INFO - Reading '/Users/phil/Documents/AR-Education/Paper/.texpadtmp/main.bcf'
+[171] Biber.pm:630> INFO - Found 0 citekeys in bib section 0
+[171] Utils.pm:169> WARN - The file '/Users/phil/Documents/AR-Education/Paper/.texpadtmp/main.bcf' does not contain any citations!
+[193] bbl.pm:479> INFO - Writing '/Users/phil/Documents/AR-Education/Paper/.texpadtmp/main.bbl' with encoding 'UTF-8'
+[193] bbl.pm:552> INFO - Output to /Users/phil/Documents/AR-Education/Paper/.texpadtmp/main.bbl
+[193] Biber.pm:105> INFO - WARNINGS: 1

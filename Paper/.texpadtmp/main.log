@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013) (format=pdflatex 2013.8.18)  19 JUN 2014 08:57
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013) (format=pdflatex 2013.8.18)  19 JUN 2014 09:23
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1101,68 +1101,72 @@ Overfull \vbox (2.60004pt too high) has occurred while \output is active []
 Overfull \vbox (2.60004pt too high) has occurred while \output is active []
 
 
-[5] (./chapters/introduction.tex)
+[5] (./chapters/1-introduction.tex)
 Overfull \vbox (11.09991pt too high) has occurred while \output is active []
 
 
 [1
 
-] (./chapters/research_approach.tex)
+] (./chapters/2-research-approach.tex)
 Overfull \vbox (11.09991pt too high) has occurred while \output is active []
 
 
 [2
 
 
-] (./chapters/findings.tex)
+] (./chapters/3-findings.tex)
 Overfull \vbox (11.09991pt too high) has occurred while \output is active []
 
 
 [3
 
 
-] (./chapters/findings_2_temp.tex)
+]
 Overfull \vbox (11.09991pt too high) has occurred while \output is active []
 
 
-[4
-
-
-] (./chapters/discussion.tex)
+[4] (./chapters/3-findings-part-2.tex)
 Overfull \vbox (11.09991pt too high) has occurred while \output is active []
 
 
 [5
 
 
-] (./chapters/conclusion.tex)
+] (./chapters/4-discussion.tex)
 Overfull \vbox (11.09991pt too high) has occurred while \output is active []
 
 
 [6
 
 
+] (./chapters/5-conclusion.tex)
+Overfull \vbox (11.09991pt too high) has occurred while \output is active []
+
+
+[7
+
+
 ]
 
-LaTeX Warning: Empty bibliography on input line 240.
+LaTeX Warning: Empty bibliography on input line 246.
 
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 248.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 248.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 254.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 254.
 (/Users/phil/Documents/AR-Education/Paper/.texpadtmp/main.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 248.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 248.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 254.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 254.
 Package rerunfilecheck Info: File `main.out' has not changed.
 (rerunfilecheck)             Checksum: <no file>.
 Package logreq Info: Writing requests to 'main.run.xml'.
 \openout1 = `main.run.xml'.
 
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 248.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 254.
  ) 
 Here is how much of TeX's memory you used:
- 15816 strings out of 493311
- 247299 string characters out of 6137850
- 716806 words of memory out of 5000000
- 18974 multiletter control sequences out of 15000+600000
+ 15868 strings out of 493311
+ 248202 string characters out of 6137850
+ 722022 words of memory out of 5000000
+ 18998 multiletter control sequences out of 15000+600000
  17421 words of font info for 32 fonts, out of 8000000 for 9000
  957 hyphenation exceptions out of 8191
  37i,10n,38p,941b,1603s stack positions out of 5000i,500n,10000p,200000b,80000s
@@ -1170,10 +1174,10 @@ Here is how much of TeX's memory you used:
 exlive/2013/texmf-dist/fonts/type1/urw/times/utmb8a.pfb></usr/local/texlive/201
 3/texmf-dist/fonts/type1/urw/times/utmr8a.pfb>
 Output written on /Users/phil/Documents/AR-Education/Paper/.texpadtmp/main.pdf 
-(11 pages, 38916 bytes).
+(12 pages, 42106 bytes).
 PDF statistics:
- 171 PDF objects out of 1000 (max. 8388607)
- 136 compressed objects within 2 object streams
- 23 named destinations out of 1000 (max. 500000)
- 145 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 255 PDF objects out of 1000 (max. 8388607)
+ 209 compressed objects within 3 object streams
+ 51 named destinations out of 1000 (max. 500000)
+ 217 words of extra memory for PDF output out of 10000 (max. 10000000)
 
