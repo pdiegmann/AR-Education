@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013) (format=pdflatex 2013.8.18)  19 JUN 2014 09:35
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013) (format=pdflatex 2013.8.18)  19 JUN 2014 09:42
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1056,7 +1056,7 @@ e
 ))
 ABD: EveryShipout initializing macros (./titlepages/cover.tex
 LaTeX Font Info:    Font shape `T1/ptm/bx/n' in size <12> not available
-(Font)              Font shape `T1/ptm/b/n' tried instead on input line 14.
+(Font)              Font shape `T1/ptm/b/n' tried instead on input line 15.
 ) [1
 
 
@@ -1183,7 +1183,7 @@ Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 254.
 Here is how much of TeX's memory you used:
  16007 strings out of 493311
  250610 string characters out of 6137850
- 722107 words of memory out of 5000000
+ 722448 words of memory out of 5000000
  19128 multiletter control sequences out of 15000+600000
  25587 words of font info for 38 fonts, out of 8000000 for 9000
  957 hyphenation exceptions out of 8191
@@ -1201,7 +1201,7 @@ pdfTeX warning (dest): name{Hfootnote.1} has been referenced but does not exist
 live/2013/texmf-dist/fonts/type1/urw/times/utmb8a.pfb></usr/local/texlive/2013/
 texmf-dist/fonts/type1/urw/times/utmr8a.pfb>
 Output written on /Users/phil/Documents/AR-Education/Paper/.texpadtmp/main.pdf 
-(13 pages, 44212 bytes).
+(13 pages, 44459 bytes).
 PDF statistics:
  277 PDF objects out of 1000 (max. 8388607)
  229 compressed objects within 3 object streams
