@@ -11,11 +11,31 @@
 \defcounter {refsection}{0}\relax 
 \contentsline {section}{Introduction}{1}{table.0.1}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{Research Approach}{2}{table.0.1}
+\contentsline {subsection}{\numberline {0.1}Problem Statement}{1}{subsection.0.1}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{Findings}{3}{table.0.1}
+\contentsline {subsection}{\numberline {0.2}Objectives}{1}{subsection.0.2}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{Discussion}{4}{table.0.1}
+\contentsline {subsection}{\numberline {0.3}Definition of "Augmented Reality"}{1}{subsection.0.3}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{Conclusion}{5}{table.0.1}
+\contentsline {subsection}{\numberline {0.4}Augmented Reality in Educational Enviroments}{1}{subsection.0.4}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{Research Approach}{2}{subsection.0.4}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {0.5}Systematic Literature Review}{2}{subsection.0.5}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {0.6}Data Analysis}{2}{subsection.0.6}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{Findings}{3}{subsection.0.6}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {0.7}Benefits of Augmented Reality}{3}{subsection.0.7}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {0.7.1}State of Mind}{3}{subsubsection.0.7.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {0.7.2}Teaching Concepts}{3}{subsubsection.0.7.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {0.8}Mapping of the Benefits to the \IeC {\quotedblbase }Five Directions\IeC {\textquotedblleft }}{4}{subsection.0.8}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{Discussion}{5}{subsection.0.8}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{Conclusion}{6}{subsection.0.8}
 \contentsfinish 
