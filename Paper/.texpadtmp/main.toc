@@ -8,4 +8,14 @@
 \contentsline {section}{Index of Tables}{IV}{table.0.1}
 \defcounter {refsection}{0}\relax 
 \contentsline {section}{Index of Illustrations}{V}{table.0.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{Introduction}{1}{table.0.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{Research Approach}{2}{table.0.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{Findings}{3}{table.0.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{Discussion}{4}{table.0.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{Conclusion}{5}{table.0.1}
 \contentsfinish 
