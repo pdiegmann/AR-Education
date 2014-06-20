@@ -59,6 +59,12 @@
 \setlength{\skip\footins}{2.5em}               % space between text & footnotes
 \usepackage{savefnmark}
 
+\newlength{\arrayrulewidthOriginal}
+\newcommand{\Cline}[2]{%
+  \noalign{\global\setlength{\arrayrulewidthOriginal}{\arrayrulewidth}}%
+  \noalign{\global\setlength{\arrayrulewidth}{#1}}\cline{#2}%
+  \noalign{\global\setlength{\arrayrulewidth}{\arrayrulewidthOriginal}}}
+
 % Mehrere Fussnoten mit Komma separieren
 \let\oldFootnote\footnote
 \newcommand\nextToken\relax

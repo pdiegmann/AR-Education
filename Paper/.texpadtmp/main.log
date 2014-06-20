@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013) (format=pdflatex 2013.8.18)  20 JUN 2014 10:08
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013) (format=pdflatex 2013.8.18)  20 JUN 2014 11:09
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -502,6 +502,8 @@ Package footmisc Info: Declaring symbol style lamport*-robust on input line 924
 (/usr/local/texlive/2013/texmf-dist/tex/latex/savefnmark/savefnmark.sty
 Package: savefnmark 2000/05/11 v1.0 save footnote marks for multiple use (VK)
 )
+\arrayrulewidthOriginal=\skip51
+
 (/usr/local/texlive/2013/texmf-dist/tex/latex/acronym/acronym.sty
 Package: acronym 2012/10/29 v1.38 Support for acronyms (Tobias Oetiker)
 
@@ -542,39 +544,39 @@ Package: needspace 2010/09/12 v1.3d reserve vertical space
 (/usr/local/texlive/2013/texmf-dist/tex/latex/tocloft/tocloft.sty
 Package: tocloft 2013/05/02 v2.3f parameterised ToC, etc., typesetting
 Package tocloft Info: The document has section divisions on input line 44.
-\cftparskip=\skip51
-\cftbeforetoctitleskip=\skip52
-\cftaftertoctitleskip=\skip53
-\cftbeforepartskip=\skip54
-\cftpartnumwidth=\skip55
-\cftpartindent=\skip56
-\cftbeforesecskip=\skip57
-\cftsecindent=\skip58
-\cftsecnumwidth=\skip59
-\cftbeforesubsecskip=\skip60
-\cftsubsecindent=\skip61
-\cftsubsecnumwidth=\skip62
-\cftbeforesubsubsecskip=\skip63
-\cftsubsubsecindent=\skip64
-\cftsubsubsecnumwidth=\skip65
-\cftbeforeparaskip=\skip66
-\cftparaindent=\skip67
-\cftparanumwidth=\skip68
-\cftbeforesubparaskip=\skip69
-\cftsubparaindent=\skip70
-\cftsubparanumwidth=\skip71
-\cftbeforeloftitleskip=\skip72
-\cftafterloftitleskip=\skip73
-\cftbeforefigskip=\skip74
-\cftfigindent=\skip75
-\cftfignumwidth=\skip76
+\cftparskip=\skip52
+\cftbeforetoctitleskip=\skip53
+\cftaftertoctitleskip=\skip54
+\cftbeforepartskip=\skip55
+\cftpartnumwidth=\skip56
+\cftpartindent=\skip57
+\cftbeforesecskip=\skip58
+\cftsecindent=\skip59
+\cftsecnumwidth=\skip60
+\cftbeforesubsecskip=\skip61
+\cftsubsecindent=\skip62
+\cftsubsecnumwidth=\skip63
+\cftbeforesubsubsecskip=\skip64
+\cftsubsubsecindent=\skip65
+\cftsubsubsecnumwidth=\skip66
+\cftbeforeparaskip=\skip67
+\cftparaindent=\skip68
+\cftparanumwidth=\skip69
+\cftbeforesubparaskip=\skip70
+\cftsubparaindent=\skip71
+\cftsubparanumwidth=\skip72
+\cftbeforeloftitleskip=\skip73
+\cftafterloftitleskip=\skip74
+\cftbeforefigskip=\skip75
+\cftfigindent=\skip76
+\cftfignumwidth=\skip77
 \c@lofdepth=\count121
 \c@lotdepth=\count122
-\cftbeforelottitleskip=\skip77
-\cftafterlottitleskip=\skip78
-\cftbeforetabskip=\skip79
-\cfttabindent=\skip80
-\cfttabnumwidth=\skip81
+\cftbeforelottitleskip=\skip78
+\cftafterlottitleskip=\skip79
+\cftbeforetabskip=\skip80
+\cfttabindent=\skip81
+\cfttabnumwidth=\skip82
 )
 (/usr/local/texlive/2013/texmf-dist/tex/latex/titlesec/titletoc.sty
 Package: titletoc 2011/12/15 v1.6 TOC entries
@@ -646,15 +648,15 @@ File: logreq.def 2010/08/04 v1.0 logreq spec v1.0
 \blx@parenlevel@text=\count161
 \blx@parenlevel@foot=\count162
 \blx@sectionciteorder@0=\count163
-\labelnumberwidth=\skip82
-\labelalphawidth=\skip83
-\shorthandwidth=\skip84
-\biblabelsep=\skip85
-\bibitemsep=\skip86
-\bibnamesep=\skip87
-\bibinitsep=\skip88
-\bibparsep=\skip89
-\bibhang=\skip90
+\labelnumberwidth=\skip83
+\labelalphawidth=\skip84
+\shorthandwidth=\skip85
+\biblabelsep=\skip86
+\bibitemsep=\skip87
+\bibnamesep=\skip88
+\bibinitsep=\skip89
+\bibparsep=\skip90
+\bibhang=\skip91
 \blx@bcfin=\read1
 \blx@bcfout=\write4
 \c@mincomprange=\count164
@@ -828,10 +830,10 @@ Package xcolor Info: Model `wave' substituted by `hsb' on input line 1360.
 )
 (/usr/local/texlive/2013/texmf-dist/tex/latex/tools/longtable.sty
 Package: longtable 2004/02/01 v4.11 Multi-page Table package (DPC)
-\LTleft=\skip91
-\LTright=\skip92
-\LTpre=\skip93
-\LTpost=\skip94
+\LTleft=\skip92
+\LTright=\skip93
+\LTpre=\skip94
+\LTpost=\skip95
 \LTchunksize=\count287
 \LTcapwidth=\dimen141
 \LT@head=\box30
@@ -862,7 +864,7 @@ Package: float 2001/11/08 v1.3d Float enhancements (AL)
 
 (/usr/local/texlive/2013/texmf-dist/tex/latex/enumitem/enumitem.sty
 Package: enumitem 2011/09/28 v3.5.2 Customized lists
-\labelindent=\skip95
+\labelindent=\skip96
 \enit@outerparindent=\dimen143
 \enit@toks=\toks30
 \enit@inbox=\box36
@@ -898,8 +900,8 @@ Package: graphicx 1999/02/16 v1.0f Enhanced LaTeX Graphics (DPC,SPQR)
 (/usr/local/texlive/2013/texmf-dist/tex/latex/rotating/rotating.sty
 Package: rotating 2009/03/28 v2.16a rotated objects in LaTeX
 \c@r@tfl@t=\count296
-\rotFPtop=\skip96
-\rotFPbot=\skip97
+\rotFPtop=\skip97
+\rotFPbot=\skip98
 \rot@float@box=\box37
 \rot@mess@toks=\toks31
 )
@@ -943,27 +945,27 @@ LaTeX Warning: Unused global option(s):
 (/Users/phil/Documents/AR-Education/Paper/.texpadtmp/main.aux)
 \openout1 = `main.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 169.
-LaTeX Font Info:    ... okay on input line 169.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 169.
-LaTeX Font Info:    ... okay on input line 169.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 169.
-LaTeX Font Info:    ... okay on input line 169.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 169.
-LaTeX Font Info:    ... okay on input line 169.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 169.
-LaTeX Font Info:    ... okay on input line 169.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 169.
-LaTeX Font Info:    ... okay on input line 169.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 169.
-LaTeX Font Info:    ... okay on input line 169.
-LaTeX Font Info:    Try loading font information for T1+ptm on input line 169.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 175.
+LaTeX Font Info:    ... okay on input line 175.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 175.
+LaTeX Font Info:    ... okay on input line 175.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 175.
+LaTeX Font Info:    ... okay on input line 175.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 175.
+LaTeX Font Info:    ... okay on input line 175.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 175.
+LaTeX Font Info:    ... okay on input line 175.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 175.
+LaTeX Font Info:    ... okay on input line 175.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 175.
+LaTeX Font Info:    ... okay on input line 175.
+LaTeX Font Info:    Try loading font information for T1+ptm on input line 175.
 
 (/usr/local/texlive/2013/texmf-dist/tex/latex/psnfss/t1ptm.fd
 File: t1ptm.fd 2001/06/04 font definitions for T1/ptm.
 )
 \AtBeginShipoutBox=\box40
-Package hyperref Info: Link coloring OFF on input line 169.
+Package hyperref Info: Link coloring OFF on input line 175.
 
 (/usr/local/texlive/2013/texmf-dist/tex/latex/hyperref/nameref.sty
 Package: nameref 2012/10/27 v2.43 Cross-referencing by name of section
@@ -973,9 +975,9 @@ Package: gettitlestring 2010/12/03 v1.4 Cleanup title references (HO)
 )
 \c@section@level=\count299
 )
-LaTeX Info: Redefining \ref on input line 169.
-LaTeX Info: Redefining \pageref on input line 169.
-LaTeX Info: Redefining \nameref on input line 169.
+LaTeX Info: Redefining \ref on input line 175.
+LaTeX Info: Redefining \pageref on input line 175.
+LaTeX Info: Redefining \nameref on input line 175.
 
 (/Users/phil/Documents/AR-Education/Paper/.texpadtmp/main.out)
 (/Users/phil/Documents/AR-Education/Paper/.texpadtmp/main.out)
@@ -1046,8 +1048,8 @@ Package biblatex Info: Automatic encoding selection.
 Package biblatex Info: Trying to load bibliographic data...
 Package biblatex Info: ... file 'main.bbl' found.
  (/Users/phil/Documents/AR-Education/Paper/.texpadtmp/main.bbl)
-Package biblatex Info: Reference section=0 on input line 169.
-Package biblatex Info: Reference segment=0 on input line 169.
+Package biblatex Info: Reference section=0 on input line 175.
+Package biblatex Info: Reference segment=0 on input line 175.
 Package caption Info: Begin \AtBeginDocument code.
 Package caption Info: float package is loaded.
 Package caption Info: longtable package is loaded.
@@ -1085,11 +1087,11 @@ LaTeX Font Info:    Font shape `T1/ptm/bx/n' in size <12> not available
 \openout6 = `main.toc'.
 
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <12> on input line 200.
+(Font)              <12> on input line 206.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <8> on input line 200.
+(Font)              <8> on input line 206.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 200.
+(Font)              <6> on input line 206.
 
 Overfull \vbox (2.60004pt too high) has occurred while \output is active []
 
@@ -1166,16 +1168,19 @@ Overfull \vbox (11.09991pt too high) has occurred while \output is active []
 
 
 ]
+
+LaTeX Warning: Float too large for page by 14.8432pt on input line 59.
+
+
 Overfull \vbox (11.09991pt too high) has occurred while \output is active []
 
 
-[7
-
-]) (./chapters/4-discussion.tex)
+[7]) (./chapters/4-discussion.tex)
 Overfull \vbox (11.09991pt too high) has occurred while \output is active []
 
 
 [8
+
 
 
 
@@ -1187,22 +1192,22 @@ Overfull \vbox (11.09991pt too high) has occurred while \output is active []
 
 
 ]
-Underfull \hbox (badness 10000) in paragraph at lines 243--243
+Underfull \hbox (badness 10000) in paragraph at lines 249--249
 
  []
 
 
-Overfull \hbox (0.53831pt too wide) in paragraph at lines 243--243
+Overfull \hbox (0.53831pt too wide) in paragraph at lines 249--249
 \T1/ptm/m/n/12 Computer-Human In-ter-ac-tion Con-fer-ence.     Mel-bourne, Vic-
 to-ria, Aus-tralia,  Nov. 26^^U
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 243--243
+Underfull \hbox (badness 10000) in paragraph at lines 249--249
 
  []
 
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 251.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 257.
 
 Overfull \vbox (11.09991pt too high) has occurred while \output is active []
 
@@ -1210,22 +1215,22 @@ Overfull \vbox (11.09991pt too high) has occurred while \output is active []
 [10
 
 ]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 251.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 257.
  (/Users/phil/Documents/AR-Education/Paper/.texpadtmp/main.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 251.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 251.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 257.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 257.
 Package rerunfilecheck Info: File `main.out' has not changed.
 (rerunfilecheck)             Checksum: <no file>.
 Package logreq Info: Writing requests to 'main.run.xml'.
 \openout1 = `main.run.xml'.
 
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 251.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 257.
  ) 
 Here is how much of TeX's memory you used:
- 16157 strings out of 493311
- 253160 string characters out of 6137850
- 727655 words of memory out of 5000000
- 19260 multiletter control sequences out of 15000+600000
+ 16165 strings out of 493311
+ 253281 string characters out of 6137850
+ 730868 words of memory out of 5000000
+ 19268 multiletter control sequences out of 15000+600000
  25587 words of font info for 38 fonts, out of 8000000 for 9000
  957 hyphenation exceptions out of 8191
  37i,10n,47p,941b,1603s stack positions out of 5000i,500n,10000p,200000b,80000s
@@ -1242,10 +1247,10 @@ pdfTeX warning (dest): name{Hfootnote.1} has been referenced but does not exist
 live/2013/texmf-dist/fonts/type1/urw/times/utmb8a.pfb></usr/local/texlive/2013/
 texmf-dist/fonts/type1/urw/times/utmr8a.pfb>
 Output written on /Users/phil/Documents/AR-Education/Paper/.texpadtmp/main.pdf 
-(15 pages, 51965 bytes).
+(15 pages, 52783 bytes).
 PDF statistics:
- 293 PDF objects out of 1000 (max. 8388607)
- 241 compressed objects within 3 object streams
+ 295 PDF objects out of 1000 (max. 8388607)
+ 243 compressed objects within 3 object streams
  61 named destinations out of 1000 (max. 500000)
  225 words of extra memory for PDF output out of 10000 (max. 10000000)
 
