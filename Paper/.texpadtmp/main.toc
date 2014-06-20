@@ -15,73 +15,49 @@
 \defcounter {refsection}{0}\relax 
 \contentsline {subsection}{\numberline {1.2}Objectives}{1}{subsection.1.2}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {1.3}Definition of "Augmented Reality"}{1}{subsection.1.3}
+\contentsline {section}{\numberline {2}Augmented Reality in Educational Environments}{2}{section.2}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {1.4}Augmented Reality in Educational Environments}{1}{subsection.1.4}
+\contentsline {subsection}{\numberline {2.1}Definition of "Augmented Reality"}{2}{subsection.2.1}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {2}Research Approach}{2}{section.2}
+\contentsline {subsection}{\numberline {2.2}Five Directions of Augmented Reality in Educational Environments}{2}{subsection.2.2}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {2.1}Systematic Literature Review}{2}{subsection.2.1}
+\contentsline {section}{\numberline {3}Systematic Literature Review}{3}{section.3}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {2.2}Data Analysis}{3}{subsection.2.2}
+\contentsline {subsection}{\numberline {3.1}Data Collection}{3}{subsection.3.1}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {3}Findings}{4}{section.3}
+\contentsline {subsection}{\numberline {3.2}Data Analysis}{5}{subsection.3.2}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {3.1}Benefits of Augmented Reality}{4}{subsection.3.1}
+\contentsline {section}{\numberline {4}Benefits of Augmented Reality in Educational Environments}{6}{section.4}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{\numberline {3.1.1}State of Mind}{4}{subsubsection.3.1.1}
+\contentsline {subsection}{\numberline {4.1}Benefit Categorization}{6}{subsection.4.1}
 \defcounter {refsection}{0}\relax 
-\contentsline {paragraph}{\numberline {3.1.1.1}Increased Motivation}{4}{paragraph.3.1.1.1}
+\contentsline {subsubsection}{\numberline {4.1.1}State of Mind}{6}{subsubsection.4.1.1}
 \defcounter {refsection}{0}\relax 
-\contentsline {paragraph}{\numberline {3.1.1.2}Increased Attention}{4}{paragraph.3.1.1.2}
+\contentsline {subsubsection}{\numberline {4.1.2}Teaching Concepts}{6}{subsubsection.4.1.2}
 \defcounter {refsection}{0}\relax 
-\contentsline {paragraph}{\numberline {3.1.1.3}Increased Concentration}{4}{paragraph.3.1.1.3}
+\contentsline {subsubsection}{\numberline {4.1.3}Presentation}{6}{subsubsection.4.1.3}
 \defcounter {refsection}{0}\relax 
-\contentsline {paragraph}{\numberline {3.1.1.4}Increased Satisfaction}{4}{paragraph.3.1.1.4}
+\contentsline {subsubsection}{\numberline {4.1.4}Learning Type}{6}{subsubsection.4.1.4}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{\numberline {3.1.2}Teaching Concepts}{4}{subsubsection.3.1.2}
+\contentsline {subsubsection}{\numberline {4.1.5}Content Understanding}{6}{subsubsection.4.1.5}
 \defcounter {refsection}{0}\relax 
-\contentsline {paragraph}{\numberline {3.1.2.1}Student Centered Learning}{4}{paragraph.3.1.2.1}
+\contentsline {subsubsection}{\numberline {4.1.6}Reduced Cost}{7}{subsubsection.4.1.6}
 \defcounter {refsection}{0}\relax 
-\contentsline {paragraph}{\numberline {3.1.2.2}Improved Collaborative Learning}{4}{paragraph.3.1.2.2}
+\contentsline {subsection}{\numberline {4.2}Mapping of the Benefits to the \IeC {\quotedblbase }Five Directions\IeC {\textquotedblleft }}{8}{subsection.4.2}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{\numberline {3.1.3}Presentation}{4}{subsubsection.3.1.3}
+\contentsline {subsubsection}{\numberline {4.2.1}Discovery-based Learning}{8}{subsubsection.4.2.1}
 \defcounter {refsection}{0}\relax 
-\contentsline {paragraph}{\numberline {3.1.3.1}Increased Details}{4}{paragraph.3.1.3.1}
+\contentsline {subsubsection}{\numberline {4.2.2}Objects Modeling}{8}{subsubsection.4.2.2}
 \defcounter {refsection}{0}\relax 
-\contentsline {paragraph}{\numberline {3.1.3.2}Easy Accessible Information}{4}{paragraph.3.1.3.2}
+\contentsline {subsubsection}{\numberline {4.2.3}AR Books}{8}{subsubsection.4.2.3}
 \defcounter {refsection}{0}\relax 
-\contentsline {paragraph}{\numberline {3.1.3.3}Interactivity}{4}{paragraph.3.1.3.3}
+\contentsline {subsubsection}{\numberline {4.2.4}Skills Training}{8}{subsubsection.4.2.4}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{\numberline {3.1.4}Learning Type}{4}{subsubsection.3.1.4}
+\contentsline {subsubsection}{\numberline {4.2.5}AR Gaming}{8}{subsubsection.4.2.5}
 \defcounter {refsection}{0}\relax 
-\contentsline {paragraph}{\numberline {3.1.4.1}Improved Learning Curve}{4}{paragraph.3.1.4.1}
+\contentsline {section}{\numberline {5}Discussion}{10}{section.5}
 \defcounter {refsection}{0}\relax 
-\contentsline {paragraph}{\numberline {3.1.4.2}Increased Creativity}{4}{paragraph.3.1.4.2}
+\contentsline {section}{\numberline {6}Conclusion}{11}{section.6}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{\numberline {3.1.5}Content Understanding}{4}{subsubsection.3.1.5}
-\defcounter {refsection}{0}\relax 
-\contentsline {paragraph}{\numberline {3.1.5.1}Development of Spacial Abilities}{4}{paragraph.3.1.5.1}
-\defcounter {refsection}{0}\relax 
-\contentsline {paragraph}{\numberline {3.1.5.2}Improved Memory}{4}{paragraph.3.1.5.2}
-\defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{\numberline {3.1.6}Reduced Cost}{5}{subsubsection.3.1.6}
-\defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {3.2}Mapping of the Benefits to the \IeC {\quotedblbase }Five Directions\IeC {\textquotedblleft }}{6}{subsection.3.2}
-\defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{\numberline {3.2.1}Discovery-based Learning}{6}{subsubsection.3.2.1}
-\defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{\numberline {3.2.2}Objects Modeling}{6}{subsubsection.3.2.2}
-\defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{\numberline {3.2.3}AR Books}{6}{subsubsection.3.2.3}
-\defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{\numberline {3.2.4}Skills Training}{6}{subsubsection.3.2.4}
-\defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{\numberline {3.2.5}AR Gaming}{6}{subsubsection.3.2.5}
-\defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {4}Discussion}{8}{section.4}
-\defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {5}Conclusion}{9}{section.5}
-\defcounter {refsection}{0}\relax 
-\contentsline {section}{Bibliography}{10}{section.5}
+\contentsline {section}{Bibliography}{12}{section.6}
 \contentsfinish 
