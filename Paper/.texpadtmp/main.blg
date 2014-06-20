@@ -1,14 +1,14 @@
 [0] Config.pm:425> INFO - This is Biber 1.7
 [0] Config.pm:428> INFO - Logfile is '/Users/phil/Documents/AR-Education/Paper/.texpadtmp/main.blg'
-[72] biber-darwin:252> INFO - === Thu Jun 19, 2014, 18:41:12
-[73] Biber.pm:333> INFO - Reading '/Users/phil/Documents/AR-Education/Paper/.texpadtmp/main.bcf'
-[138] Biber.pm:630> INFO - Found 2 citekeys in bib section 0
-[155] Biber.pm:2997> INFO - Processing section 0
-[171] Biber.pm:3134> INFO - Looking for bibtex format file 'literature.bib' for section 0
-[179] bibtex.pm:911> INFO - Decoding LaTeX character macros into UTF-8
-[186] bibtex.pm:786> INFO - Found BibTeX data source 'literature.bib'
-[248] Biber.pm:2883> INFO - Overriding locale 'en_US.UTF-8' default tailoring 'variable = shifted' with 'variable = non-ignorable'
-[248] Biber.pm:2889> INFO - Sorting 'entry' list 'nty' keys
-[248] Biber.pm:2893> INFO - No sort tailoring available for locale 'en_US.UTF-8'
-[265] bbl.pm:479> INFO - Writing '/Users/phil/Documents/AR-Education/Paper/.texpadtmp/main.bbl' with encoding 'UTF-8'
-[265] bbl.pm:552> INFO - Output to /Users/phil/Documents/AR-Education/Paper/.texpadtmp/main.bbl
+[96] biber-darwin:252> INFO - === Fri Jun 20, 2014, 09:42:18
+[96] Biber.pm:333> INFO - Reading '/Users/phil/Documents/AR-Education/Paper/.texpadtmp/main.bcf'
+[177] Biber.pm:630> INFO - Found 2 citekeys in bib section 0
+[203] Biber.pm:2997> INFO - Processing section 0
+[225] Biber.pm:3134> INFO - Looking for bibtex format file 'literature.bib' for section 0
+[232] bibtex.pm:911> INFO - Decoding LaTeX character macros into UTF-8
+[241] bibtex.pm:786> INFO - Found BibTeX data source 'literature.bib'
+[320] Biber.pm:2883> INFO - Overriding locale 'en_US.UTF-8' default tailoring 'variable = shifted' with 'variable = non-ignorable'
+[320] Biber.pm:2889> INFO - Sorting 'entry' list 'nty' keys
+[320] Biber.pm:2893> INFO - No sort tailoring available for locale 'en_US.UTF-8'
+[339] bbl.pm:479> INFO - Writing '/Users/phil/Documents/AR-Education/Paper/.texpadtmp/main.bbl' with encoding 'UTF-8'
+[340] bbl.pm:552> INFO - Output to /Users/phil/Documents/AR-Education/Paper/.texpadtmp/main.bbl
