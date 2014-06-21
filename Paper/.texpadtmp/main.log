@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013) (format=pdflatex 2013.8.18)  21 JUN 2014 10:59
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013) (format=pdflatex 2013.8.18)  21 JUN 2014 11:49
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1292,7 +1292,7 @@ pdfTeX warning (dest): name{Hfootnote.1} has been referenced but does not exist
 live/2013/texmf-dist/fonts/type1/urw/times/utmb8a.pfb></usr/local/texlive/2013/
 texmf-dist/fonts/type1/urw/times/utmr8a.pfb>
 Output written on /Users/phil/Documents/AR-Education/Paper/.texpadtmp/main.pdf 
-(17 pages, 685423 bytes).
+(17 pages, 685420 bytes).
 PDF statistics:
  314 PDF objects out of 1000 (max. 8388607)
  253 compressed objects within 3 object streams
