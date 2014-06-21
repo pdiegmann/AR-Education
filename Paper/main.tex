@@ -130,12 +130,13 @@
 % Literaturverzeichnis
 \usepackage[
     bibstyle=authortitle,
-    citestyle=authoryear,
+    citestyle=authoryear-ibid,
     isbn=false,
     url=true,
     doi=false,
     maxcitenames=2,
-    maxbibnames=30
+    maxbibnames=30,
+    autocite=footnote
 ]{biblatex}
 \addbibresource{literature.bib}
 \let\cite\textcite
@@ -169,11 +170,26 @@
 \interfootnotelinepenalty=10000
 
 \begin{document}
+
 %\shorthandoff{"}
 
 % Variables
 
 % Renews
+\renewbibmacro*{cite}{%
+  \global\boolfalse{cbx:loccit}%
+  \iffieldundef{shorthand}
+    {\ifthenelse{\ifciteibid\AND\NOT\iffirstonpage}
+       {\usebibmacro{cite:ibid}}
+       {\ifthenelse{\ifnameundef{labelname}\OR\iffieldundef{labelyear}}
+          {\usebibmacro{cite:label}%
+           \setunit{\addspace}}
+          {\printnames{labelname}%
+           \setunit{\nameyeardelim}}%
+        \iffieldundef{labelyear}
+          {}
+          {\printtext[parens]{\usebibmacro{cite:labelyear+extrayear}}}}}
+    {\usebibmacro{cite:shorthand}}}
 \renewcommand{\figurename}{}
 \renewcommand{\tablename}{}
 \renewcommand\thefigure{Fig. \arabic{section}-\arabic{figure}}

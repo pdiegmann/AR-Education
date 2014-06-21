@@ -1,17 +1,14 @@
 [0] Config.pm:425> INFO - This is Biber 1.7
 [0] Config.pm:428> INFO - Logfile is '/Users/phil/Documents/AR-Education/Paper/.texpadtmp/main.blg'
-[81] biber-darwin:252> INFO - === Fri Jun 20, 2014, 20:43:57
-[81] Biber.pm:333> INFO - Reading '/Users/phil/Documents/AR-Education/Paper/.texpadtmp/main.bcf'
-[155] Biber.pm:630> INFO - Found 3 citekeys in bib section 0
-[180] Biber.pm:2997> INFO - Processing section 0
-[202] Biber.pm:3134> INFO - Looking for bibtex format file 'literature.bib' for section 0
-[209] bibtex.pm:911> INFO - Decoding LaTeX character macros into UTF-8
-[219] bibtex.pm:786> INFO - Found BibTeX data source 'literature.bib'
-[235] Utils.pm:169> WARN - BibTeX subsystem: /var/folders/gd/stv2y35d0c9_9_ggcbl7zfxw0000gn/T/Pl0Jf0uz_Y/literature.bib_2434.utf8, line 534, warning: undefined macro "Wiley"
-[240] Utils.pm:169> WARN - The field 'publisher' in entry 'Jankowicz.2003' cannot be null, deleting it
-[307] Biber.pm:2883> INFO - Overriding locale 'en_US.UTF-8' default tailoring 'variable = shifted' with 'variable = non-ignorable'
-[307] Biber.pm:2889> INFO - Sorting 'entry' list 'nty' keys
-[307] Biber.pm:2893> INFO - No sort tailoring available for locale 'en_US.UTF-8'
-[342] bbl.pm:479> INFO - Writing '/Users/phil/Documents/AR-Education/Paper/.texpadtmp/main.bbl' with encoding 'UTF-8'
-[343] bbl.pm:552> INFO - Output to /Users/phil/Documents/AR-Education/Paper/.texpadtmp/main.bbl
-[344] Biber.pm:105> INFO - WARNINGS: 2
+[81] biber-darwin:252> INFO - === Sat Jun 21, 2014, 10:10:25
+[82] Biber.pm:333> INFO - Reading '/Users/phil/Documents/AR-Education/Paper/.texpadtmp/main.bcf'
+[151] Biber.pm:630> INFO - Found 3 citekeys in bib section 0
+[172] Biber.pm:2997> INFO - Processing section 0
+[189] Biber.pm:3134> INFO - Looking for bibtex format file 'literature.bib' for section 0
+[196] bibtex.pm:911> INFO - Decoding LaTeX character macros into UTF-8
+[203] bibtex.pm:786> INFO - Found BibTeX data source 'literature.bib'
+[270] Biber.pm:2883> INFO - Overriding locale 'en_US.UTF-8' default tailoring 'variable = shifted' with 'variable = non-ignorable'
+[270] Biber.pm:2889> INFO - Sorting 'entry' list 'nty' keys
+[270] Biber.pm:2893> INFO - No sort tailoring available for locale 'en_US.UTF-8'
+[295] bbl.pm:479> INFO - Writing '/Users/phil/Documents/AR-Education/Paper/.texpadtmp/main.bbl' with encoding 'UTF-8'
+[296] bbl.pm:552> INFO - Output to /Users/phil/Documents/AR-Education/Paper/.texpadtmp/main.bbl

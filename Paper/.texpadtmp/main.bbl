@@ -92,22 +92,28 @@
       \endverb
       \keyw{augmented book;augmented reality;authoring;education;electromagnetism;interaction;learning}
     \endentry
-    \entry{Jankowicz.2003}{article}{}
+    \entry{Jankowicz.2004}{book}{}
       \name{labelname}{1}{}{%
         {{uniquename=0,hash=626564b7e8dda7f0ced649bb585fda4e}{Jankowicz}{J\bibinitperiod}{D.}{D\bibinitperiod}{}{}{}{}}%
       }
       \name{author}{1}{}{%
         {{uniquename=0,hash=626564b7e8dda7f0ced649bb585fda4e}{Jankowicz}{J\bibinitperiod}{D.}{D\bibinitperiod}{}{}{}{}}%
       }
+      \list{location}{1}{%
+        {Chichester}%
+      }
+      \list{publisher}{1}{%
+        {Wiley}%
+      }
       \strng{namehash}{626564b7e8dda7f0ced649bb585fda4e}
       \strng{fullhash}{626564b7e8dda7f0ced649bb585fda4e}
       \field{sortinit}{J}
-      \field{labelyear}{2003}
+      \field{labelyear}{2004}
       \field{labeltitle}{The Easy Guide to Repertory Grids}
       \field{abstract}{the book "The Easy Guide to Repertory Grids"}
       \field{isbn}{978-0-470-85404-4}
       \field{title}{The Easy Guide to Repertory Grids}
-      \field{year}{2003}
+      \field{year}{2004}
       \field{pages}{1\bibrangedash 332}
     \endentry
   \endsortlist

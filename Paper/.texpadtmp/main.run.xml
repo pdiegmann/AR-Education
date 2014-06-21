@@ -55,7 +55,7 @@
       <file>biblatex.def</file>
       <file>authortitle.bbx</file>
       <file>standard.bbx</file>
-      <file>authoryear.cbx</file>
+      <file>authoryear-ibid.cbx</file>
       <file>biblatex.cfg</file>
       <file>english.lbx</file>
     </requires>
