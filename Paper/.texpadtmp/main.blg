@@ -1,16 +1,16 @@
 [0] Config.pm:425> INFO - This is Biber 1.7
 [0] Config.pm:428> INFO - Logfile is '/Users/phil/Documents/AR-Education/Paper/.texpadtmp/main.blg'
-[74] biber-darwin:252> INFO - === Sat Jun 21, 2014, 15:24:07
-[74] Biber.pm:333> INFO - Reading '/Users/phil/Documents/AR-Education/Paper/.texpadtmp/main.bcf'
-[138] Biber.pm:630> INFO - Found 7 citekeys in bib section 0
-[155] Biber.pm:2997> INFO - Processing section 0
-[171] Biber.pm:3134> INFO - Looking for bibtex format file 'literature.bib' for section 0
-[179] bibtex.pm:911> INFO - Decoding LaTeX character macros into UTF-8
-[187] bibtex.pm:786> INFO - Found BibTeX data source 'literature.bib'
-[213] Utils.pm:169> WARN - The field 'note' in entry 'Wu.2013' cannot be null, deleting it
-[287] Biber.pm:2883> INFO - Overriding locale 'en_US.UTF-8' default tailoring 'variable = shifted' with 'variable = non-ignorable'
-[287] Biber.pm:2889> INFO - Sorting 'entry' list 'nty' keys
-[287] Biber.pm:2893> INFO - No sort tailoring available for locale 'en_US.UTF-8'
-[341] bbl.pm:479> INFO - Writing '/Users/phil/Documents/AR-Education/Paper/.texpadtmp/main.bbl' with encoding 'UTF-8'
-[343] bbl.pm:552> INFO - Output to /Users/phil/Documents/AR-Education/Paper/.texpadtmp/main.bbl
-[343] Biber.pm:105> INFO - WARNINGS: 1
+[86] biber-darwin:252> INFO - === Sat Jun 21, 2014, 15:26:48
+[86] Biber.pm:333> INFO - Reading '/Users/phil/Documents/AR-Education/Paper/.texpadtmp/main.bcf'
+[158] Biber.pm:630> INFO - Found 7 citekeys in bib section 0
+[176] Biber.pm:2997> INFO - Processing section 0
+[191] Biber.pm:3134> INFO - Looking for bibtex format file 'literature.bib' for section 0
+[200] bibtex.pm:911> INFO - Decoding LaTeX character macros into UTF-8
+[209] bibtex.pm:786> INFO - Found BibTeX data source 'literature.bib'
+[233] Utils.pm:169> WARN - The field 'note' in entry 'Wu.2013' cannot be null, deleting it
+[307] Biber.pm:2883> INFO - Overriding locale 'en_US.UTF-8' default tailoring 'variable = shifted' with 'variable = non-ignorable'
+[307] Biber.pm:2889> INFO - Sorting 'entry' list 'nty' keys
+[308] Biber.pm:2893> INFO - No sort tailoring available for locale 'en_US.UTF-8'
+[365] bbl.pm:479> INFO - Writing '/Users/phil/Documents/AR-Education/Paper/.texpadtmp/main.bbl' with encoding 'UTF-8'
+[367] bbl.pm:552> INFO - Output to /Users/phil/Documents/AR-Education/Paper/.texpadtmp/main.bbl
+[367] Biber.pm:105> INFO - WARNINGS: 1
