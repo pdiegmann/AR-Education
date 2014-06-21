@@ -111,10 +111,32 @@
       \field{labelyear}{2004}
       \field{labeltitle}{The Easy Guide to Repertory Grids}
       \field{abstract}{the book "The Easy Guide to Repertory Grids"}
-      \field{isbn}{978-0-470-85404-4}
       \field{title}{The Easy Guide to Repertory Grids}
       \field{year}{2004}
-      \field{pages}{1\bibrangedash 332}
+    \endentry
+    \entry{Miles.1994}{book}{}
+      \name{labelname}{2}{}{%
+        {{uniquename=0,hash=9f84d144d2e0f7a2b6e6ac64f744406a}{Miles}{M\bibinitperiod}{M.\bibnamedelimi B.}{M\bibinitperiod\bibinitdelim B\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=0fd4286d780b1310f8d637bcfd584e1c}{Huberman}{H\bibinitperiod}{A.\bibnamedelimi M.}{A\bibinitperiod\bibinitdelim M\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{2}{}{%
+        {{uniquename=0,hash=9f84d144d2e0f7a2b6e6ac64f744406a}{Miles}{M\bibinitperiod}{M.\bibnamedelimi B.}{M\bibinitperiod\bibinitdelim B\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=0fd4286d780b1310f8d637bcfd584e1c}{Huberman}{H\bibinitperiod}{A.\bibnamedelimi M.}{A\bibinitperiod\bibinitdelim M\bibinitperiod}{}{}{}{}}%
+      }
+      \list{location}{1}{%
+        {Thousand Oaks}%
+      }
+      \list{publisher}{1}{%
+        {Sage}%
+      }
+      \strng{namehash}{df76f960e379183ddcca8cc5e765ea6b}
+      \strng{fullhash}{df76f960e379183ddcca8cc5e765ea6b}
+      \field{sortinit}{M}
+      \field{labelyear}{1994}
+      \field{labeltitle}{The Easy Guide to Repertory Grids}
+      \field{abstract}{the book "Qualitative Data Analysis"}
+      \field{title}{The Easy Guide to Repertory Grids}
+      \field{year}{1994}
     \endentry
   \endsortlist
 \endrefsection
