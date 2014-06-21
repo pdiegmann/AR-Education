@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013) (format=pdflatex 2013.8.18)  20 JUN 2014 19:18
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013) (format=pdflatex 2013.8.18)  20 JUN 2014 21:15
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1243,6 +1243,11 @@ Underfull \hbox (badness 10000) in paragraph at lines 250--250
 
  []
 
+
+Underfull \hbox (badness 10000) in paragraph at lines 250--250
+
+ []
+
 Package atveryend Info: Empty hook `BeforeClearDocument' on input line 258.
 
 Overfull \vbox (11.09991pt too high) has occurred while \output is active []
@@ -1263,15 +1268,18 @@ Package logreq Info: Writing requests to 'main.run.xml'.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 258.
  ) 
 Here is how much of TeX's memory you used:
- 16177 strings out of 493311
- 254458 string characters out of 6137850
- 732624 words of memory out of 5000000
- 19281 multiletter control sequences out of 15000+600000
+ 16182 strings out of 493311
+ 254537 string characters out of 6137850
+ 732648 words of memory out of 5000000
+ 19284 multiletter control sequences out of 15000+600000
  25587 words of font info for 38 fonts, out of 8000000 for 9000
  957 hyphenation exceptions out of 8191
  37i,10n,47p,941b,1603s stack positions out of 5000i,500n,10000p,200000b,80000s
-pdfTeX warning (dest): name{Hfootnote.3} has been referenced but does not exi
+pdfTeX warning (dest): name{Hfootnote.4} has been referenced but does not exi
 st, replaced by a fixed one
+
+pdfTeX warning (dest): name{Hfootnote.3} has been referenced but does not exist
+, replaced by a fixed one
 
 pdfTeX warning (dest): name{Hfootnote.2} has been referenced but does not exist
 , replaced by a fixed one
@@ -1283,10 +1291,10 @@ pdfTeX warning (dest): name{Hfootnote.1} has been referenced but does not exist
 live/2013/texmf-dist/fonts/type1/urw/times/utmb8a.pfb></usr/local/texlive/2013/
 texmf-dist/fonts/type1/urw/times/utmr8a.pfb>
 Output written on /Users/phil/Documents/AR-Education/Paper/.texpadtmp/main.pdf 
-(17 pages, 683734 bytes).
+(17 pages, 684378 bytes).
 PDF statistics:
- 308 PDF objects out of 1000 (max. 8388607)
- 247 compressed objects within 3 object streams
- 53 named destinations out of 1000 (max. 500000)
+ 313 PDF objects out of 1000 (max. 8388607)
+ 252 compressed objects within 3 object streams
+ 55 named destinations out of 1000 (max. 500000)
  243 words of extra memory for PDF output out of 10000 (max. 10000000)
 
