@@ -156,7 +156,7 @@
 % Literaturverzeichnis
 \usepackage[
     bibstyle=authortitle,
-    citestyle=authoryear-ibid,
+    citestyle=authoryear,
     isbn=false,
     url=true,
     doi=false,
@@ -203,7 +203,7 @@
 
 % Renews
 \renewbibmacro*{cite}{%
-  \global\boolfalse{cbx:loccit}%
+  %\global\boolfalse{cbx:loccit}%
   \iffieldundef{shorthand}
     {\ifthenelse{\ifciteibid\AND\NOT\iffirstonpage}
        {\usebibmacro{cite:ibid}}
